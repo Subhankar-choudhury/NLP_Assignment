@@ -1,4 +1,4 @@
-# Natural Language Processing Assignment
+# NLP Assignment
 
 This repository contains the implementation and comparative analysis of several **Natural Language Processing (NLP) techniques** using Python. The project demonstrates core NLP concepts such as preprocessing, parsing, named entity recognition, word embeddings, and discourse analysis.
 
@@ -287,8 +287,7 @@ It provides a hands-on understanding of how modern NLP systems process and analy
 
 # Author
 
-Subhankar Choudhury
-RA2311003012385
+Subhankar Choudhury (RA2311003012385)
 ---
 
 # License
